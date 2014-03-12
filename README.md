@@ -8,7 +8,8 @@ A hardware barcode scanner is a relatively simple device. It appears to your sys
 
 
 # What is changed
-It and independed version without ruby. For thoes who dont want to work with ruby/rake.
-An release executable is also supplied(./bin/release).
+It is an ruby independent,For thoes who dont want to work with ruby/rake.
+you can directly download Barcode Simulator from [here](https://raw.github.com/jgera/barcode-simulator/master/bin/Release/Barcode.exe)
+
 
 
